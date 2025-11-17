@@ -9,7 +9,7 @@ Apasionado por el desarrollo de soluciones robustas y escalables. Mi enfoque com
 
 ### 🔥 Sobre Mí
 
-* Tengo **+2 años de experiencia** en desarrollo web y de software.
+* Tengo **+3 años de experiencia** en desarrollo web y de software.
 * Habilidades clave: **JavaScript, React, Python, R, MySQL, NoSQL y DevOps**.
 * Actualmente trabajo como **Coordinador de Tecnología en YES BPO S.A.S.**
 * Interesado en **Inteligencia Artificial, Arquitectura Cloud y Ciencia de Datos**.
