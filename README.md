@@ -51,35 +51,29 @@ Soy un **Desarrollador Full Stack** con experiencia en **gestión de tecnología
 >
 > **Tecnologías:** Node.js, Express, WhatsApp Business API, MongoDB, React.
 >
-> **[Ver Repositorio]([LINK-AL-REPO])** | **[Ver Demo]([LINK-AL-DEMO])**
 
 **📌 CRM Empresarial para Gestión de Cartera**
 > Desarrollo de un CRM personalizado para la gestión de cartera empresarial. Incluye módulos para seguimiento de actualizaciones, asignación de tareas y generación de reportes.
 >
 > **Tecnologías:** React, Node.js, MySQL, Express, RESTful API.
 >
-> **[Ver Repositorio]([LINK-AL-REPO])** | **[Ver Demo]([LINK-AL-DEMO])**
-
 **📌 Servidor SIP con Asterisk para WhatsApp**
 > Implementación de un servidor SIP utilizando Asterisk para integración con WhatsApp. Permite recibir y gestionar llamadas desde la plataforma de mensajería en un sistema telefónico centralizado.
 >
 > **Tecnologías:** Asterisk, Linux, SIP Protocol, VoIP, WhatsApp Integration.
 >
-> **[Ver Repositorio]([LINK-AL-REPO])** | **[Ver Demo]([LINK-AL-DEMO])**
 
 **📌 Zona de Mascotas - Web de Estética para Mascotas**
 > Página web desarrollada en React para un negocio de estética canina. Se implementó con un fuerte enfoque en SEO para mejorar su posicionamiento en buscadores.
 >
 > **Tecnologías:** React, JavaScript, SEO, CSS, Responsive Design.
 >
-> **[Ver Repositorio]([LINK-AL-REPO])** | **[Ver Demo]([LINK-AL-DEMO])**
 
 **📌 Portafolio Web Profesional**
 > Diseño e implementación de mi portafolio web personal. Incluye traducción multilenguaje, formulario de contacto con EmailJS y diseño adaptable.
 >
 > **Tecnologías:** Next.js, React, EmailJS, JavaScript, CSS, SEO.
 >
-> **[Ver Repositorio]([LINK-AL-REPO])** | **[Ver Demo](https://portafolio-web-blue.vercel.app/)**
 
 ---
 
